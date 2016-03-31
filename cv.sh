@@ -15,8 +15,8 @@ Well, Here are the skills which I currently possess:
 \033[4;34mOperating systems:\033[0;30m
 	\033[0;32mRFRemix Fedora:\033[1;30m 16 -> 18 -> 20 -> 23
 		Few years as a second OS on my laptop for studying/programming, etc.
-		Gnome 3/Sinnamon fun, but you also need gnome-tools еo change desktop
-		environment for yourself. 
+		Gnome 3/Sinnamon is fun, but you also need gnome-tools еo change desktop
+		environment to your needs. 
 		
 	
 	\033[0;32mArch Linux:\033[1;30m archlinux-2013.11.001 -> archlinux-2014.08.01
@@ -50,15 +50,15 @@ Well, Here are the skills which I currently possess:
 	
 \033[4;34mOther skills:\033[0;30m
 	\033[0;32mRemote Desktop, LAN, etc:\033[1;30m
-		For the last few years on different jobs I use TaemViewer, Google Remote Desktop and other for my own workstations
-		and also to solve some tasks.
+		For the last few years on different jobs I've used TaemViewer and Google Remote Desktop for connecting to my own workstations
+		and also for performing tasks with others ws in lan.
 	
 		I spend one year on job in a small company that cooperated with foreign medical manufacturer. It's a 11 worksatations
-		connected with Star-type netwok, 3 MFP and a lot of medical programs with their own burg and helpdesk. My duties included:
-			= install/uninstall software
-			= bacup/remote controll some tasks and check network staff
+		connected with Star-type netwok, 3 MFPs and a lot of medical programs with their own burg and helpdesks. My duties included:
+			= installing/uninstalling software
+			= bacup/remote controlling some tasks and checking network hardware stuff
 			= train new employees
-			= some recruit staff
+			= recruiting
 			= briefing with italian and swiss colleagues, etc
 		"
 
