@@ -35,8 +35,8 @@ echo -en "Well, Here are the skills which I currently possess:
 
 	p.s. I know how execute 'sudo rm -rf*' looks like. It's fun.		
 	
-	\033[0;32mWindows:\033[1;30m 98 -> Xp -> 7 <-> 8/10. Was used as a main OS on different jobs
-	for a few years.
+	\033[0;32mWindows:\033[1;30m 98 -> Xp -> 7 <-> 8/10. 
+	Was used as a main OS on different jobs for a few years.
 
 
 
@@ -50,9 +50,20 @@ echo -en "Well, Here are the skills which I currently possess:
 		Few exp in U works such as http/echo protocols. Rspec? Sometimes.
 		
 	Some basic skills in python/js/java/hashell/as3/pascal. Also basic knowlede html/css, etc w3c staff.
-	 I use man/info/help. Otherwise will use stackoverflow. If worst comes to worst, will use google."
+	 I use man/info/help. Otherwise will use stackoverflow. If worst comes to worst, will use google.
 	
+\033[4;34mOther skills:\033[0;30m
+	\033[0;32mRemote Desktop, LAN, etc:\033[1;30m
+		For the last few years on different jobs I use TaemViewer, Google Remote Desktop and other for my own workstations
+		and also to solve some tasks.
 	
+		I spend one year on job in a small company that cooperated with foreign medical manufacturer. It's a 11 worksatations
+		connected with Star-type netwok, 3 MFP and a lot of medical programs with their own burg and helpdesk. My duties included:
+			= install/uninstall software
+			= bacup/remote controll some tasks and check network staff
+			= train new employees
+			= some recruit staff
+			= briefing with italian and swiss colleagues, etc"
 	
 
 read answer
