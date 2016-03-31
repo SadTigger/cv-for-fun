@@ -2,7 +2,7 @@
 #cv example
 #author: Pavel Zhacho(Павел Жечко) aka sad_tigger
 #ver 0.1 - 31/03/2016 11.17
-#ver 0.n - 14.45
+
 
 echo -en "\033[30;1mH̶e̶l̶l̶o̶,̶ ̶w̶o̶r̶d̶!\033[0m"
 
@@ -12,7 +12,7 @@ echo -en "\033[1;30mJust kidding.
 Ok, once again."
 
 echo "Hello. My name is Pavel. I'm 23 y-old anykey-junior developer
-with some knowlege in linux and ruby."
+with some knowlege in linux and code."
 
 echo -en "Well, Here are the skills which I currently possess: 
 
@@ -20,7 +20,7 @@ echo -en "Well, Here are the skills which I currently possess:
 	\033[0;32mRFRemix Fedora:\033[1;30m 16 -> 18 -> 20 -> 23
 		Few years as a second OS on my laptop for studying/programming, etc.
 		Gnome 3/Sinnamon fun, but you also need gnome-tools еo change desktop
-		environment for yourself. Dnf > Yum.
+		environment for yourself. 
 		
 	
 	\033[0;32mArch Linux:\033[1;30m archlinux-2013.11.001 -> archlinux-2014.08.01
@@ -33,7 +33,7 @@ echo -en "Well, Here are the skills which I currently possess:
 		OS for games and net surfing. Nothing to say. 
 		Ubuntu is mainsteam.(Don't tell that to Ubuntu users)
 
-	p.s. I know how looks execute 'sudo rm -rf*'. It's fun.		
+	p.s. I know how execute 'sudo rm -rf*' looks like. It's fun.		
 	
 	\033[0;32mWindows:\033[1;30m 98 -> Xp -> 7 <-> 8/10. Was used as a main OS on different jobs
 	for a few years.
@@ -49,7 +49,8 @@ echo -en "Well, Here are the skills which I currently possess:
 		1.9.3 -> 2.0.0
 		Few exp in U works such as http/echo protocols. Rspec? Sometimes.
 		
-	Some basic skills in python/js/java/hashell/as3/pascal"
+	Some basic skills in python/js/java/hashell/as3/pascal. Also basic knowlede html/css, etc w3c staff.
+	 I use man/info/help. Otherwise will use stackoverflow. If worst comes to worst, will use google."
 	
 	
 	
