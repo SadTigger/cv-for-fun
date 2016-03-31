@@ -3,18 +3,14 @@
 #author: Pavel Zhacho(Павел Жечко) aka sad_tigger
 #ver 0.1 - 31/03/2016 11.17
 
+echo -en "\033[9mHello, World!\033[0m
 
-echo -en "\033[30;1mH̶e̶l̶l̶o̶,̶ ̶w̶o̶r̶d̶!\033[0m"
+\033[1;30mJust kidding. Ok, once again.
 
-echo""
+Hello. My name is Pavel. I'm 23 y-old anykey-junior developer
+with some knowlege in linux and code.
 
-echo -en "\033[1;30mJust kidding. 
-Ok, once again."
-
-echo "Hello. My name is Pavel. I'm 23 y-old anykey-junior developer
-with some knowlege in linux and code."
-
-echo -en "Well, Here are the skills which I currently possess: 
+Well, Here are the skills which I currently possess: 
 
 \033[4;34mOperating systems:\033[0;30m
 	\033[0;32mRFRemix Fedora:\033[1;30m 16 -> 18 -> 20 -> 23
@@ -63,7 +59,8 @@ echo -en "Well, Here are the skills which I currently possess:
 			= bacup/remote controll some tasks and check network staff
 			= train new employees
 			= some recruit staff
-			= briefing with italian and swiss colleagues, etc"
-	
+			= briefing with italian and swiss colleagues, etc
+		"
 
 read answer
+#"press any key" 
