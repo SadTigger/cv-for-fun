@@ -26,7 +26,7 @@ echo -en "Well, Here are the skills which I currently possess:
 	\033[0;32mArch Linux:\033[1;30m archlinux-2013.11.001 -> archlinux-2014.08.01
 		Another OS for learning programming and doing some of my U works.
 		I know how to use archwiki if I need something.
-		Pacman > Yum. When you need cool desktop monitoring config go to deviantart and 
+		When you need cool desktop monitoring config go to deviantart and 
 		search for conky to your liking
 	
 	\033[0;32mUbuntu:\033[1;30m 12.10 -> 14.04 -> 15.10
