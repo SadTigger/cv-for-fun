@@ -46,7 +46,7 @@ Well, Here are the skills which I currently possess:
 		Few exp in U works such as http/echo protocols. Rspec? Sometimes.
 		
 	Some basic skills in python/js/java/hashell/as3/pascal. Also basic knowlede html/css, etc w3c staff.
-	 I use man/info/help. Otherwise will use stackoverflow. If worst comes to worst, will use google.
+	I use man/info/help. Otherwise will use stackoverflow. If worst comes to worst, will use google.
 	
 \033[4;34mOther skills:\033[0;30m
 	\033[0;32mRemote Desktop, LAN, etc:\033[1;30m
@@ -54,13 +54,12 @@ Well, Here are the skills which I currently possess:
 		and also for performing tasks with others ws in lan.
 	
 		I spend one year on job in a small company that cooperated with foreign medical manufacturer. It's a 11 worksatations
-		connected with Star-type netwok, 3 MFPs and a lot of medical programs with their own burg and helpdesks. My duties included:
+		connected with Star-type netwok, 3 MFPs and a lot of medical programs with their own bugs and helpdesks. My duties included:
 			= installing/uninstalling software
 			= bacup/remote controlling some tasks and checking network hardware stuff
 			= train new employees
 			= recruiting
-			= briefing with italian and swiss colleagues, etc
-		"
+			= briefing with italian and swiss colleagues, etc"
 
 read answer
 #"press any key" 
