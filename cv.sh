@@ -2,6 +2,7 @@
 #cv example
 #author: Pavel Zhacho(Павел Жечко) aka sad_tigger
 #ver 0.1 - 31/03/2016 11.17
+#only for fun, not for work
 
 echo -en "\033[9mHello, World!\033[0m
 
@@ -15,7 +16,7 @@ Well, Here are the skills which I currently possess:
 \033[4;34mOperating systems:\033[0;30m
 	\033[0;32mRFRemix Fedora:\033[1;30m 16 -> 18 -> 20 -> 23
 		Few years as a second OS on my laptop for studying/programming, etc.
-		Gnome 3/Sinnamon is fun, but you also need gnome-tools еo change desktop
+		Gnome 3/Cinnamon is fun, but you also need gnome-tools to change desktop
 		environment to your needs. 
 		
 	
@@ -29,7 +30,7 @@ Well, Here are the skills which I currently possess:
 		OS for games and net surfing. Nothing to say. 
 		Ubuntu is mainsteam.(Don't tell that to Ubuntu users)
 
-	p.s. I know how execute 'sudo rm -rf*' looks like. It's fun.		
+	p.s. I know how execute 'sudo rm -rf /*' looks like. It's fun.		
 	
 	\033[0;32mWindows:\033[1;30m 98 -> Xp -> 7 <-> 8/10. 
 	Was used as a main OS on different jobs for a few years.
@@ -54,9 +55,10 @@ Well, Here are the skills which I currently possess:
 		and also for performing tasks with others ws in lan.
 	
 		I spend one year on job in a small company that cooperated with foreign medical manufacturer. It's a 11 worksatations
-		connected with Star-type netwok, 3 MFPs and a lot of medical programs with their own bugs and helpdesks. My duties included:
+		connected with Star-type netwok, 3 MFPs and a lot of medical programs with their own bugs and helpdesks. 
+		My duties included:
 			= installing/uninstalling software
-			= bacup/remote controlling some tasks and checking network hardware stuff
+			= backup/remote controlling some tasks and checking network hardware stuff
 			= train new employees
 			= recruiting
 			= briefing with italian and swiss colleagues, etc"
